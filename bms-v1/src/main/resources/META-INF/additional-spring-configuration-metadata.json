@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "razorpay.threshold",
+    "type": "java.lang.String",
+    "description": "A description for 'razorpay.threshold'"
+  },
+  {
+    "name": "razorpay1.secretkey",
+    "type": "java.lang.String",
+    "description": "A description for 'razorpay1.secretkey'"
+  },
+  {
+    "name": "razorpay1.secretid",
+    "type": "java.lang.String",
+    "description": "A description for 'razorpay1.secretid'"
+  }
+]}
